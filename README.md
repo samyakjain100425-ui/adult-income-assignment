@@ -119,31 +119,6 @@ An interactive Streamlit web application was developed and deployed using Stream
 
 ---
 
-## 📁 Project Structure
-
-project-folder/
-│
-├── data/
-│   └── adult.csv
-│
-├── model/
-│   ├── logistic.pkl
-│   ├── decision_tree.pkl
-│   ├── knn.pkl
-│   ├── naive_bayes.pkl
-│   ├── random_forest.pkl
-│   ├── xgboost.pkl
-│   ├── scaler.pkl
-│   └── feature_columns.pkl
-│
-├── app.py
-├── train_models.py
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🎓 Conclusion
 
 This project demonstrates implementation and comparison of multiple machine learning classification models on a structured tabular dataset. 
