@@ -139,7 +139,8 @@ project-folder/
 ├── app.py
 ├── train_models.py
 ├── requirements.txt
-└── README.md  
+└── README.md
+
 
 ---
 
