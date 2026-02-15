@@ -121,23 +121,25 @@ An interactive Streamlit web application was developed and deployed using Stream
 
 ## 📁 Project Structure
 
-data/
-    adult.csv
-
-models/
-    decision_tree.pkl
-    feature_columns.pkl
-    knn.pkl
-    logistic.pkl
-    naive_bayes.pkl
-    random_forest.pkl
-    scaler.pkl
-    xgboost.pkl
-
-app.py
-README.md
-requirements.txt
-train_models.py    
+project-folder/
+│
+├── data/
+│   └── adult.csv
+│
+├── model/
+│   ├── logistic.pkl
+│   ├── decision_tree.pkl
+│   ├── knn.pkl
+│   ├── naive_bayes.pkl
+│   ├── random_forest.pkl
+│   ├── xgboost.pkl
+│   ├── scaler.pkl
+│   └── feature_columns.pkl
+│
+├── app.py
+├── train_models.py
+├── requirements.txt
+└── README.md  
 
 ---
 
