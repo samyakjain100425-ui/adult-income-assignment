@@ -6,8 +6,8 @@ The objective of this project is to predict whether an individual's annual incom
 
 This is formulated as a supervised binary classification problem where the target variable `income` has two classes:
 
-- <=50K
-- >50K
+- `<=50K`
+- `>50K`
 
 ---
 
